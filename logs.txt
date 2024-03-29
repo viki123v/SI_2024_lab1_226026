@@ -1,0 +1,36 @@
+commit 57da5c330db1320b7a682cfdee9c285ca9d45405 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Viki123V <viktorhristovski629@gmail.com>
+Date:   Fri Mar 29 13:17:47 2024 +0100
+
+Call method makeBigStringFrom in main class & Call method filterOddLengthStrings in main class
+
+commit dc37ed045bbc5394247e2d3e57799cc614eb72bc
+Author: Viki123V <viktorhristovski629@gmail.com>
+Date:   Fri Mar 29 13:12:22 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 2494e84e926da48a6a5212a848b5cfd3e0713629 (origin/bug1, bug1)
+Author: Viki123V <viktorhristovski629@gmail.com>
+Date:   Fri Mar 29 13:14:28 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 9fdc6e3b4c96ba547da2000f44000551ff392a74
+Author: Viki123V <viktorhristovski629@gmail.com>
+Date:   Fri Mar 29 13:02:31 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 344dd089e65e3691208b27201ddfb6f7e17a8fbc
+Author: Viki123V <viktorhristovski629@gmail.com>
+Date:   Fri Mar 29 12:46:33 2024 +0100
+
+    Add starter code
+
+commit fe3d8f4f8853ad9db0e95f82558da7a357168f40
+Author: Viki123V <viktorhristovski629@gmail.com>
+Date:   Fri Mar 29 12:18:29 2024 +0100
+
+    Initial commit
+
